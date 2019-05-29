@@ -325,6 +325,8 @@ and `apply` allow us to instantly execute functions while specifying the `this`
 value of the executed function. Then we learned how to use `bind` to make copies
 of functions with a new `this` value bound to the copy of the function.
 
+Type 'learn submit'
+
 ## Resources
 
 - [MDN: Function.prototype.call()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
